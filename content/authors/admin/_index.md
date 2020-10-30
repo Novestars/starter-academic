@@ -19,7 +19,7 @@ social:
     icon_pack: fab
     link: https://github.com/Novestars
 organizations:
-  - name: Stanford University
+  - name: the Department of Biomedical engineering at Columbia University
     url: ""
 education:
   courses:
