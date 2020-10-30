@@ -17,7 +17,7 @@ social:
     link: https://scholar.google.com/citations?user=BHDTVVYAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Novestars
 organizations:
   - name: Stanford University
     url: ""
