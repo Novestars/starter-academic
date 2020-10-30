@@ -2,22 +2,19 @@
 title: Xinzi He
 role: Master Student, Columbia University, New York
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research lies at the intersection of artificial intelligence and medical
+  image analysis.
 interests:
+  - Medical image analysis
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep learning.
 social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=BHDTVVYAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -43,7 +40,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
+I am a master's student in the Department of Biomedical Engineering at Columbia University, directed by Prof. Andrew F. Laine. Before that, I obtained my bachelor's degree in the Department of Biomedical Engineering at Shenzhen University,  supervised by Dr. Baiying Lei. My research lies at the intersection of artificial intelligence and medical image analysis. I am devoted to developing data-efficient deep-learning algorithms for medical image analysis. Also, I have expertise in both 2D and 3D vision. Recently, I am working on unsupervised learning-based generic symmetric image registration. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am looking for a Ph. D position now. If you are interested in my works and me, feel free to send me an email.
