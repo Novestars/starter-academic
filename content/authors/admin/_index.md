@@ -12,12 +12,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: xh2435@columbia.edu
-  - icon: google
-    icon_pack: fab
-    link: https://scholar.google.com/citations?user=BHDTVVYAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
     link: https://github.com/Novestars
+  - icon: google
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=BHDTVVYAAAAJ&hl
 organizations: []
 education:
   courses:
