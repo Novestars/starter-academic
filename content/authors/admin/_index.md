@@ -13,7 +13,7 @@ social:
     icon_pack: fas
     link: xh2435@columbia.edu
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: far
     link: https://scholar.google.com/citations?user=BHDTVVYAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
