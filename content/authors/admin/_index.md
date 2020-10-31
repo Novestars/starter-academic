@@ -31,9 +31,7 @@ email: xh2435@columbia.edu
 superuser: true
 authors:
   - admin
-user_groups:
-  - Researchers
-  - Visitors
+user_groups: []
 ---
 I am a master's student in the Department of Biomedical Engineering at Columbia University, directed by Prof. Andrew F. Laine. Before that, I obtained my bachelor's degree in the Department of Biomedical Engineering at Shenzhen University,  supervised by Dr. Baiying Lei. My research lies at the intersection of artificial intelligence and medical image analysis. I am devoted to developing data-efficient deep-learning algorithms for medical image analysis. Also, I have expertise in both 2D and 3D vision. Recently, I am working on unsupervised learning-based generic symmetric image registration. 
 
