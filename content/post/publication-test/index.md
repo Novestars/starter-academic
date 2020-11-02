@@ -1,5 +1,5 @@
 ---
-title: Publication test
+title: Publication test2
 date: 2020-10-31T20:22:27.028Z
 draft: false
 featured: false
