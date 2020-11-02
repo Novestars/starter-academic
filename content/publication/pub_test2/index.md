@@ -5,9 +5,14 @@ draft: false
 featured: false
 authors:
   - Xinzi He
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
+view: 2
 ---
 test
+sdaaaaaaaaaaaaaaaaasd
+ads
+asd
+asd
+ads
+a
+sd
+ad
